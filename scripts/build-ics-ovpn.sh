@@ -1,5 +1,5 @@
 echo "<==> build ics-openvpn"
-export JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home
+# export JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home
 cd ics-openvpn
 
 echo "<==> init & update submodule"
